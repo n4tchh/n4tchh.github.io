@@ -1,0 +1,27 @@
+languageCode= "pt-br"
+languageName = "Português"
+weight = 1
+title = "n4tchh"
+
+[params]
+  displayName = "PT-BR"
+  isoCode = "pt-br"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "Website description"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+name = "Natália Veronezi - 'n4tchh' "
+image = "img/profile.png"
+imageQuality = 96
+headline = "Headline phrase"
+bio = "Bio description"
+links = [
+  #{tryhackme = "https://tryhackme.com/p/n4tchh"},
+  #{htb = "https://app.hackthebox.com/users/418804"},
+  { github = "https://github.com/n4tchh" },
+  { gitlab = "https://gitlab.com/n4tchh" },
+  { medium = "https://medium.com/@n4tchh" },
+  { linkedin = "https://linkedin.com/in/nataliaveronezi" },
+]
